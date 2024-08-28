@@ -20,4 +20,12 @@
     text-align: center;
 }
 
+.recipe-list a {
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1.3em;
+    color: #9c1611;
+}
+
+
 
