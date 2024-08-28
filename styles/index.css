@@ -27,5 +27,9 @@
     color: #9c1611;
 }
 
+.recipe-list a:hover {
+    color: #39313080;
+}
+
 
 
