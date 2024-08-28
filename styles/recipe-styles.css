@@ -9,8 +9,16 @@
     box-shadow: 0 5px 5px 5px rgba(0, 0, 0, 0.2);
 }
 
+.recipe-header h1 {
+    font-size: 2.5em;
+    color: #d9534f;
+}
+
 .recipe-img {
     display: block;
     border-radius: 10px;
     box-shadow: 0 5px 5px 5px rgba(0, 0, 0, 0.2);
 }
+
+
+
