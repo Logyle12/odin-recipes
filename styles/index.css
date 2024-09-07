@@ -29,6 +29,8 @@ p {
     list-style: none;
     padding: 6px 0px;
     margin: 8px 0px;
+    border-top: 1.5px dotted rgba(102, 102, 102, 0.645);
+    border-bottom: 1.5px dotted rgba(102, 102, 102, 0.645);
 }
 
 .recipe-info-item {
