@@ -13,6 +13,11 @@ p {
     font-family: 'Roboto', sans-serif;
 }
 
+.page-title {
+    text-align: center;
+    margin-top: 20px;
+}
+
 .recipe-card {
     width: 644px;
     padding: 12px 20px;
