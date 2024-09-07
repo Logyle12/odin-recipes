@@ -34,6 +34,10 @@ p {
     margin-left: 120px;
 }
 
+.recipe-card a:hover {
+    background-color: antiquewhite;
+}
+
 .recipe-info {
     display: inline-block;
     vertical-align: top;
