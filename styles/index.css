@@ -18,7 +18,7 @@ p {
     margin-top: 20px;
 }
 
-.recipe-card {
+.recipe-wrapper {
     width: 644px;
     padding: 12px 20px;
     border: 2px solid black;
@@ -46,6 +46,5 @@ p {
     margin: 6px 5px;
 }
 
-.recipe-info-item:nth-child(-n+2) {
-    border-right: 1.5px solid rgba(102, 102, 102, 0.345);
-}
+
+
