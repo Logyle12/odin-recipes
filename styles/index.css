@@ -1,16 +1,6 @@
-.recipe-card {
-    padding: 20px;
-    border: 2px solid black;
-    margin: 20px auto;
-    width: 700px;
+* {
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-
-.recipe-card h1 {
-    font-family: 'Franklin Gothic Medium';
-}
-
-.recipe-card p {
-    font-family: 'Roboto', sans-serif;
-    font-size: 1.1em;
-}
-
