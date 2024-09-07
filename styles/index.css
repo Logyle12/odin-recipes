@@ -45,3 +45,7 @@ p {
     font-size: 16px;
     margin: 6px 5px;
 }
+
+.recipe-info-item:nth-child(-n+2) {
+    border-right: 1.5px solid rgba(102, 102, 102, 0.345);
+}
