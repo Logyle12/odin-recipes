@@ -25,6 +25,15 @@ p {
     margin: 20px auto;
 }
 
+.recipe-card a {
+    display: inline-block;
+    padding: 20px;
+    background-color: beige;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 120px;
+}
+
 .recipe-info {
     display: inline-block;
     vertical-align: top;
