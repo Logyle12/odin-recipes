@@ -44,13 +44,14 @@ p, a {
     text-decoration: none;
     border-radius: 15px;
     padding: 20px;
-    background-color: beige;
+    background-color: rgba(0, 0, 0, 0.95);
+    color: rgb(240, 255, 255);
     margin: 14px 60px;
     font-size: 16px;
 }
 
 .recipe-card a:hover {
-    background-color: antiquewhite;
+    background-color: rgba(0, 0, 0, 0.865)
 }
 
 .recipe-info {
