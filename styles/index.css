@@ -25,6 +25,11 @@ p {
     margin: 20px auto;
 }
 
+.recipe-image {
+    display: inline-block;
+    height: 300px;
+}
+
 .recipe-card a {
     display: inline-block;
     padding: 20px;
