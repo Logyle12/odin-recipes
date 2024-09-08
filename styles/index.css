@@ -15,7 +15,12 @@ p, a {
 
 .page-title {
     text-align: center;
-    margin-top: 20px;
+    margin: 20px auto;
+    background-color: black;
+    color: azure;
+    padding: 10px;
+    font-size: 48px;
+    width: 820px;
 }
 
 .recipe-wrapper {
@@ -48,7 +53,7 @@ p, a {
     padding: 20px;
     background-color: rgba(0, 0, 0, 0.95);
     color: rgb(240, 255, 255);
-    margin: 14px 62px;
+    margin: 14px 65px;
     font-size: 16px;
 }
 
