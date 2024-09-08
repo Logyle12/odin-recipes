@@ -45,9 +45,8 @@ p, a {
     border-radius: 15px;
     padding: 20px;
     background-color: beige;
-    margin-top: 8px;
-    margin-bottom: 8px;
-    margin-left: 80px;
+    margin: 14px 60px;
+    font-size: 16px;
 }
 
 .recipe-card a:hover {
