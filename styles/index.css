@@ -21,7 +21,7 @@ p {
 .recipe-wrapper {
     width: 800px;
     border: 2px solid black;
-    margin: 20px auto;
+    margin: 20px auto 25px;
 }
 
 .recipe-image {
