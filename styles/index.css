@@ -28,10 +28,12 @@ p {
 .recipe-image {
     display: inline-block;
     height: 300px;
+    width: 200px;
 }
 
 .recipe-card {
     display: inline-block;
+    width: 580px;
 }
 
 .recipe-card a {
