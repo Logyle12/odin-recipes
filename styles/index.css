@@ -69,8 +69,8 @@ p, a {
 .recipe-info {
     display: inline-block;
     vertical-align: top;
-    border-top: 1.5px dotted rgba(102, 102, 102, 0.645);
-    border-bottom: 1.5px dotted rgba(102, 102, 102, 0.645);
+    border-top: 2px dotted rgba(102, 102, 102, 0.645);
+    border-bottom: 2px dotted rgb(102, 102, 102, 0.645);
     margin: 8px 0px;
     padding: 6px 0px;
 }
