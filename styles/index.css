@@ -75,9 +75,13 @@ p, a {
     margin-right: 5px;
 }
 
-.recipe-info-item h2{
+.recipe-info-item h2 {
     font-size: 16px;
     margin: 6px 5px;
+}
+
+.recipe-info-item p {
+    font-size: 14px;
 }
 
 .recipe-info-item:nth-child(-n+2) {
