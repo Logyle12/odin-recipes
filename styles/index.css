@@ -9,7 +9,7 @@ h1, h2 {
     font-family: 'Franklin Gothic Medium';
 }
 
-p {
+p, a {
     font-family: 'Roboto', sans-serif;
 }
 
