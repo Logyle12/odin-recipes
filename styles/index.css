@@ -35,8 +35,9 @@ p, a {
 .recipe-card {
     display: inline-block;
     width: 580px;
+    height: 300px;
     vertical-align: top;
-    margin: 10px 6px;
+    padding: 10px 6px;
 }
 
 .recipe-card a {
