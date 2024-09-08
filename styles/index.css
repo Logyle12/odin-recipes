@@ -60,6 +60,7 @@ p, a {
     border-top: 1.5px dotted rgba(102, 102, 102, 0.645);
     border-bottom: 1.5px dotted rgba(102, 102, 102, 0.645);
     margin: 8px 0px;
+    padding: 6px 0px;
 }
 
 .recipe-info-list {
