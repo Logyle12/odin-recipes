@@ -29,5 +29,5 @@ Credits for the images in this website go to:
 - [Ground Beef Recipes - Double Bacon Cheeseburger](https://groundbeefrecipes.com/wp-content/uploads/double-bacon-cheeseburger-recipe-2.jpg)
 - [Cafe Delites - Chicken Parmigiana](https://cafedelites.com/wp-content/uploads/2018/04/Chicken-Parmigiana-IMAGE-2.jpg)
 - [The Chunky Chef - Honey Garlic Salmon](https://www.thechunkychef.com/wp-content/uploads/2020/01/Honey-Garlic-Salmon-fork-768x1070.jpg)
-- [Tiffy Cooks - Image of Dish](https://tiffycooks.com/wp-content/uploads/2022/06/EC46FE8C-42F2-49C5-966B-381937B82214-scaled.jpg)
+- [Tiffy Cooks - Katsu Curry](https://tiffycooks.com/wp-content/uploads/2022/06/EC46FE8C-42F2-49C5-966B-381937B82214-scaled.jpg)
 - [Once Upon a Chef - Spaghetti and Meatballs](https://www.onceuponachef.com/images/2019/09/Spaghetti-and-Meatballs-1120x1451.jpg)
