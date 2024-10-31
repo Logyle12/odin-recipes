@@ -1,12 +1,28 @@
 # Recipe Website
 
-Welcome to the Recipe Website! This project is a simple, static website featuring five distinct recipes, each linked from a central index.html page. Whether you're a cooking enthusiast or just looking for new culinary ideas, this site provides an easy way to access a variety of delicious recipes.
+Welcome to the Recipe Website! This project is a simple, static website featuring five distinct recipes, each linked from a central `index.html` page. Whether you're a cooking enthusiast or just looking for new culinary ideas, this site provides an easy way to access a variety of delicious recipes.
 
-## Structure
+## Table of Contents
 
-### 'index.html'
+1. [Introduction](#recipe-website)
+2. [Demo](#demo)
+3. [Structure](#structure)
+   - [index.html](#indexhtml)
+   - [Recipe Pages](#recipe-pages)
+4. [Credits](#credits)
 
-The homepage of the website, 'index.html', serves as the central hub. It contains links to five individual recipe pages, each accessible through a simple and intuitive interface.
+## Demo
+
+You can view a live demo of the website [here](https://logyle12.github.io/odin-recipes/).
+
+## Project Structure
+
+```bash
+├── index.html        # Main HTML file serving as the homepage with links to all recipes
+├── /images           # Folder containing all the images used in the recipes
+├── /recipes          # Folder containing individual HTML files for each recipe
+└── /styles           # Folder containing CSS files for styling the recipes
+```
 
 ### Recipe Pages
 
