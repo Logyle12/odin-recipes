@@ -6,7 +6,7 @@ Welcome to the Recipe Website! This project is a simple, static website featurin
 
 1. [Introduction](#recipe-website)
 2. [Demo](#demo)
-3. [Structure](#structure)
+3. [Project Structure](#project-structure)
    - [index.html](#indexhtml)
    - [Recipe Pages](#recipe-pages)
 4. [Credits](#credits)
